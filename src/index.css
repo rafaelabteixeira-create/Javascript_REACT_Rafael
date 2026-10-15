@@ -30,3 +30,14 @@ input {
   padding: 1px 6px;
   border-radius: 3px;
 }
+
+
+.title {
+  background-color: #945b3a;
+  width: 50%;
+}
+
+.sorte{
+  background-color: #dfc533;
+  width: 50%;
+}
